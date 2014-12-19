@@ -81,8 +81,8 @@ public class LoginActivity extends Activity {
 		pwdText = (EditText) findViewById(R.id.pwdText);
 	
 
-		userText.setText("hxp@hanzhisoft.com");
-		pwdText.setText("hxphxp");
+		//userText.setText("用户名");
+		//pwdText.setText("密码");
 		// 初始化按钮事件
 		initLoginUI();
 		// 检测联网状态
